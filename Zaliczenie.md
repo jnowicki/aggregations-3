@@ -49,7 +49,7 @@ w zadaniu [2X,Y]:
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie1.md). [GetGlue](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie2.md) [1M,G 2AP]
 
 
-### C
+### C+
 
 1. [Banecki, Daniel](https://bitbucket.org/Harpie/nosql). Kanada
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie). [Pogoda](https://github.com/mbonczkowska/NoSQLzadanie/blob/master/Zadanie2.md) [1G, 2-]
@@ -64,6 +64,7 @@ w zadaniu [2X,Y]:
    [1M,WT,G 2-]; \[w zadaniu 1 dodać link skąd pobrano dane do PLUSLIGA, zadanie 2 – tylko kod]
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md) [1M,WT 2AP]
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2) [1M,WT, 2AP] :love_letter: to Mongo
+1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/src/c825abb9c659e7bae2fd1c372ec18a0a79bb0d02/zad2.md?at=master) [1M,WT,G, 2-]
 
 
 ### 2013/14
