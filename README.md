@@ -39,10 +39,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ----
 
-1. [Kulas, Piotr](https://github.com/pkulas/nosql/blob/master/zadanie1.md). [The Internet Movie Database](https://github.com/pkulas/nosql/blob/master/zadanie2.md) [1M,WT,G 2AP]
-
-----
-
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1WT,G 2AP]
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex1.md). [GetGlue](https://github.com/szykom/nosql/blob/master/ex2.md) [1M,WT,G 2AP]
 1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations) [1M,WT 2AP]
