@@ -13,7 +13,6 @@ w zadaniu [2X,Y]:
 
 [2-] – niedziałający link do zadania 2
 
-
 ### A
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/NoSQLWB/blob/master/Zad1.md). [NYCrimes](https://github.com/pacewicz/NoSQLWB/blob/master/Zad2.md) [2AP]
@@ -26,7 +25,6 @@ w zadaniu [2X,Y]:
 1. [Sarzyńska, Magdalena](https://github.com/Madzia/NoSQL_UG/blob/master/zad1.md). [Power](https://github.com/Madzia/NoSQL_UG/blob/master/zad2.md)
    Londyn, Big Ben… :clock4: power :factory:
 1. [Zakrzewski, Patryk](https://github.com/zakrzes/Technologie-NoSQL). [IMDB](https://github.com/zakrzes/Technologie-NoSQL/blob/master/Zadanie%202.md) [1M]
-
 
 
 ### B
@@ -66,6 +64,28 @@ w zadaniu [2X,Y]:
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad1.md). [GetGlue](https://github.com/waveq/nosqlUG/blob/master/Zad2.md) [1M,WT 2AP]
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/nosql). [Flights](https://github.com/Michaldwadwa/nosql2) [1M,WT, 2AP] :love_letter: to Mongo
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql). [Loty](https://bitbucket.org/lukasz978/nosql/src/c825abb9c659e7bae2fd1c372ec18a0a79bb0d02/zad2.md?at=master) [1M,WT,G, 2-]
+
+
+### C
+
+1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
+1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1WT,G 2AP]
+1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN). [Car Accidents UK](https://github.com/jnowicki/NoSQL-JN2)
+1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex1.md). [GetGlue](https://github.com/szykom/nosql/blob/master/ex2.md) [1M,WT,G 2AP]
+1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations) [1M,WT 2AP]
+
+
+### D
+
+1. Bieliński, Marcin
+1. Gałka, Łukasz
+1. Grycko, Marcin
+1. Janowski, Arkadiusz
+1. Kamiński, Jakub
+1. Soliński, Damian
+1. Szklarska, Milena
+1. Szymanek, Tomasz
+1. Zdunek, Kamil
 
 
 ### 2013/14

@@ -17,32 +17,10 @@ i [WiredTiger](http://www.wiredtiger.com/).
 
 Należy przygotować rozwiązania [zadań 1 i 2](http://wbzyl.inf.ug.edu.pl/nosql/zadania).
 
-Dane należy wpisać według schematu (całość w jednym wierszu):
+Dane należy wpisać w pliku *Zaliczenie.md* według schematu (całość w jednym wierszu):
 
     1. [Nazwisko, Imię](link do **prywatnego** repo z rozwiązaniem zadania 1 na GitHub).
        [Tytuł](link do **prywatnego** repo z rozwiązaniem zadania 2 na GitHub)
-
-
-### Niezaliczone laboratorium
-
-1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
-1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN). [Car Accidents UK](https://github.com/jnowicki/NoSQL-JN2)
-1. Bieliński, Marcin
-1. Gałka, Łukasz
-1. Grycko, Marcin
-1. Janowski, Arkadiusz
-1. Kamiński, Jakub
-1. Soliński, Damian
-1. Szklarska, Milena
-1. Szymanek, Tomasz
-1. Zdunek, Kamil
-
-----
-
-1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1WT,G 2AP]
-1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex1.md). [GetGlue](https://github.com/szykom/nosql/blob/master/ex2.md) [1M,WT,G 2AP]
-1. [Ławicki, Patryk](https://bitbucket.org/true-or-false/mongo). [USCars](https://bitbucket.org/true-or-false/aggregations) [1M,WT 2AP]
-1. [Zduniak, Daniel](https://github.com/dzduniak/NoSQL) [1M,G 2-]
 
 
 ### Egzamin, *deadline* czwartek, 2015-01-08, 08:00 CEST
@@ -114,7 +92,6 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
 1. Zakrzewski, Patryk
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie3.md)
-1. Zdunek, Kamil
 
 
 ## Simple Rules for Reproducible Computations
