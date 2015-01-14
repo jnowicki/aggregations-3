@@ -59,9 +59,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Kamiński, Jakub
 1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce)
 1. [Kąkol, Jan] (https://bitbucket.org/Jankkol/nosqlegz/overview)
-1. Kłeczek, Piotr
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex3.md)
-1. Koźmiński, Marcin
 1. [Kożuch, Adam](https://AdamKozuch@bitbucket.org/AdamKozuch/zadanie3.git)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQLEgz)
 1. [Kulas, Piotr](https://github.com/cinkonaap/nosql/blob/master/zad3/rozwiazanie.md)
@@ -85,7 +83,6 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/egzaminNoSQL)
 1. Soliński, Damian
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3)
-1. Szklarska, Milena
 1. [Szymanek, Tomasz](https://bitbucket.org/Shimaneiro/nosql)
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
 1. Zakrzewski, Patryk
