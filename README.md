@@ -74,7 +74,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql_egzamin) // cała Wikipedia?
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3_exam)
 1. Nowicki, Jakub
-1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz) // :ok_hand: Elasticsearch
+1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz) // Elasticsearch :ok_hand:
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo/src/3415beb3424cc6b162e8d1da087d59d424fdd3b4/Zad3.md?at=master)
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad3.md)
 1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie3.md)
