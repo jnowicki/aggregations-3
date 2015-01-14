@@ -84,7 +84,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Soliński, Damian
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3) :hash: :ok_hand:
 1. [Szymanek, Tomasz](https://bitbucket.org/Shimaneiro/nosql)
-1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
+1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin) // nieprawidłowy link do *show.txt*
 1. Zakrzewski, Patryk
 1. [Zalewski, Marcin](https://github.com/mzalewskiug/nosql-uczelnia/blob/master/zadanie3.md)
 
