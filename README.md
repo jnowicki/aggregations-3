@@ -66,15 +66,15 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQLexam) // 404 – Page not Found
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/nosql-egz)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/WikiNoSQL.git)
-1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-egzamin) // zaliczenie
+1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-egzamin) // zaliczenie, te MR mozna policzyć korzystając z AP
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_3.md)
 1. [Ławicki, Patryk](https://true-or-false@bitbucket.org/true-or-false/mongomapreduce.git)
 1. Makulec, Krzysztof
-1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB)
-1. [Miś, Maciej](https://github.com/MacMisDev/nosql_egzamin)
+1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB) // :+1: analizę dla j. polskiego
+1. [Miś, Maciej](https://github.com/MacMisDev/nosql_egzamin) // cała Wikipedia?
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3_exam)
 1. Nowicki, Jakub
-1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz)
+1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz) // :ok_hand: Elasticsearch
 1. [Piotrkowski, Łukasz](https://bitbucket.org/lpiotrkowski/mongo/src/3415beb3424cc6b162e8d1da087d59d424fdd3b4/Zad3.md?at=master)
 1. [Rękawek, Szymon](https://github.com/waveq/nosqlUG/blob/master/Zad3.md)
 1. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie3.md)
