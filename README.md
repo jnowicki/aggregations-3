@@ -68,7 +68,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQLexam)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/nosql-egz)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/WikiNoSQL.git)
-1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-egzamin)
+1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-egzamin) // zaliczenie
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_3.md)
 1. [Ławicki, Patryk](https://true-or-false@bitbucket.org/true-or-false/mongomapreduce.git)
 1. Makulec, Krzysztof

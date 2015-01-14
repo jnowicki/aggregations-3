@@ -83,7 +83,6 @@ w zadaniu [2X,Y]:
 1. Janowski, Arkadiusz
 1. Kamiński, Jakub
 1. Soliński, Damian
-1. Szklarska, Milena
 1. Szymanek, Tomasz
 1. Zdunek, Kamil
 
