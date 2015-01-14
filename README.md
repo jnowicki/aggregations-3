@@ -47,8 +47,8 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Bonczkowska, Magdalena](https://github.com/mbonczkowska/NoSQLzadanie/blob/master/Zadanie3.md)
 1. [Borkowski, Maciej](https://github.com/maciekBorkowski/ReduceMapMongo)
 1. [Cimoch, Jarosław](https://github.com/jcimoch/noSQL-Egzamin) // 404 – Page not Found
-1. [Czechowicz, Kacper](https://github.com/kipperek/mapReduce)
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSql_reduce_3)
+1. [Czechowicz, Kacper](https://github.com/kipperek/mapReduce) // ScopedThread :+1:
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/noSql_reduce_3) // 404 – Page not Found
 1. [Drozdowski, Adrian](https://github.com/adrozdowski/NoSQL/blob/master/Zadanie3.md)
 1. [Ekiert, Łukasz](https://github.com/cinkonaap/nosql/blob/master/zad3/rozwiazanie.md)
 1. Gałka, Łukasz
@@ -57,8 +57,8 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Janowski, Arkadiusz
 1. [Józwiak, Roman](https://github.com/gruchanet/nosql_experiments/blob/master/solutions/exercise3.md)
 1. Kamiński, Jakub
-1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce)
-1. [Kąkol, Jan] (https://bitbucket.org/Jankkol/nosqlegz/overview)
+1. [Karolczak, Jakub](https://github.com/Taureli/MongoDB-MapReduce) // cała Wikipedia?
+1. [Kąkol, Jan](https://bitbucket.org/Jankkol/nosqlegz/overview)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex3.md)
 1. [Kożuch, Adam](https://AdamKozuch@bitbucket.org/AdamKozuch/zadanie3.git)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQLEgz)
