@@ -62,7 +62,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Kłeczek, Piotr
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex3.md)
 1. Koźmiński, Marcin
-1. Kożuch, Adam
+1. [Kożuch, Adam](https://AdamKozuch@bitbucket.org/AdamKozuch/zadanie3.git)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQLEgz)
 1. [Kulas, Piotr](https://github.com/cinkonaap/nosql/blob/master/zad3/rozwiazanie.md)
 1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQLexam)
