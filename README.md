@@ -70,7 +70,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Latoszewski, Krzysztof](https://github.com/klatoszewski/nosql/blob/master/Zadanie_3.md)
 1. [Ławicki, Patryk](https://true-or-false@bitbucket.org/true-or-false/mongomapreduce.git)
 1. Makulec, Krzysztof
-1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB) // :+1: analizę dla j. polskiego
+1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB) // :+1: za analizę dla j. polskiego + :tiger:
 1. [Miś, Maciej](https://github.com/MacMisDev/nosql_egzamin) // cała Wikipedia?
 1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3_exam)
 1. Nowicki, Jakub
@@ -82,7 +82,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Sienkiewicz, Daniel](https://github.com/henio180/NoSQLEgzamin)
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/egzaminNoSQL)
 1. Soliński, Damian
-1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3)
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/Tnosql3) :hash: :ok_hand:
 1. [Szymanek, Tomasz](https://bitbucket.org/Shimaneiro/nosql)
 1. [Wittbrodt, Łukasz](https://bitbucket.org/lukasz978/nosql-egzamin)
 1. Zakrzewski, Patryk
