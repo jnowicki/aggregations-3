@@ -63,7 +63,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. [Kożuch, Adam](https://AdamKozuch@bitbucket.org/AdamKozuch/zadanie3.git)
 1. [Kucharski, Maciej](https://github.com/Maciekek/noSQLEgz)
 1. [Kulas, Piotr](https://github.com/cinkonaap/nosql/blob/master/zad3/rozwiazanie.md)
-1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQLexam) // "404 – Page not Found" - Dodano collaboratora
+1. [Kuźnik, Mateusz](https://github.com/Misiek92/NoSQLexam)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/nosql-egz)
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/WikiNoSQL.git)
 1. [Latoszewski, Adam](https://github.com/alatoszewski/nosql-egzamin) // zaliczenie, te MR mozna policzyć korzystając z AP
