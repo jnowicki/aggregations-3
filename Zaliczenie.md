@@ -83,7 +83,7 @@ w zadaniu [2X,Y]:
 1. Janowski, Arkadiusz
 1. Kamiński, Jakub
 1. Soliński, Damian
-1. Szymanek, Tomasz
+1. [Szymanek, Tomasz](https://bitbucket.org/Shimaneiro/train)
 1. Zdunek, Kamil
 
 
