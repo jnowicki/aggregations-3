@@ -68,7 +68,7 @@ w zadaniu [2X,Y]:
 
 ### C
 
-1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
+1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md). [GetGlue](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-2.md)
 1. [Czechowicz, Kacper](https://github.com/kipperek/nosqlOne). [People](https://github.com/kipperek/nosqlTwo) [1WT,G 2AP]
 1. [Nowicki, Jakub](https://github.com/jnowicki/NoSQL-JN). [Car Accidents UK](https://github.com/jnowicki/NoSQL-JN2)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql/blob/master/ex1.md). [GetGlue](https://github.com/szykom/nosql/blob/master/ex2.md) [1M,WT,G 2AP]
