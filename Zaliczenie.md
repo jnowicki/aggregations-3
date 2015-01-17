@@ -79,7 +79,7 @@ w zadaniu [2X,Y]:
 
 1. Bieliński, Marcin
 1. Gałka, Łukasz
-1. Grycko, Marcin
+1. [Grycko, Marcin](https://bitbucket.org/mgrycko/nosql/)
 1. Janowski, Arkadiusz
 1. Kamiński, Jakub
 1. Soliński, Damian
